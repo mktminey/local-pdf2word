@@ -21,7 +21,7 @@
 需要 Python 3.9 或更高版本（Windows 安装时请勾选 **Add python.exe to PATH**）。
 
 ```bash
-git clone https://github.com/<你的用户名>/local-pdf2word.git
+git clone https://github.com/mktminey/local-pdf2word.git
 cd local-pdf2word
 
 python -m venv .venv
@@ -99,7 +99,7 @@ A small PDF-to-Word converter that runs **entirely on your own machine**. No int
 Requires Python 3.9 or newer. On Windows, check **Add python.exe to PATH** during installation.
 
 ```bash
-git clone https://github.com/<your-username>/local-pdf2word.git
+git clone https://github.com/mktminey/local-pdf2word.git
 cd local-pdf2word
 
 python -m venv .venv
